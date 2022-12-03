@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "Andrea Piacquadio",
+    "img": "/assets/images/chefs/andrea-piacquadio.jpg",
+    "position": "Chef Extraordinaire"
+  },
+  {
+    "id": 1,
+    "name": "Consus Uma Duffy",
+    "img": "/assets/images/chefs/consus-uma-duffy.jpg",
+    "position": "Chef Extraordinaire"
+  },
+  {
+    "id": 2,
+    "name": "Jurrien Olhof",
+    "img": "/assets/images/chefs/jurrien-olhof.jpg",
+    "position": "Chef Extraordinaire"
+  },
+  {
+    "id": 3,
+    "name": "Miquel Ferran Gomez",
+    "img": "/assets/images/chefs/miquel-ferran-gomez.jpg",
+    "position": "Chef Extraordinaire"
+  },
+  {
+    "id": 4,
+    "name": "Nonkosi Joyi",
+    "img": "/assets/images/chefs/nonkosi-joyi.jpg",
+    "position": "Chef Extraordinaire"
+  },
+  {
+    "id": 5,
+    "name": "Pabio Combeiro",
+    "img": "/assets/images/chefs/pabio-combeiro.jpg",
+    "position": "Chef Extraordinaire"
+  },
+  {
+    "id": 6,
+    "name": "Bobby Flay",
+    "img": "/assets/images/chefs/Bobby-Flay.jpg",
+    "position": "Chef Extraordinaire"
+  },
+  {
+    "id": 7,
+    "name": "Gordon Ramsay",
+    "img": "/assets/images/chefs/Gordon-Ramsay.jpg",
+    "position": "Chef Extraordinaire"
+  },
+  {
+    "id": 8,
+    "name": "Guy Fieri",
+    "img": "/assets/images/chefs/Guy-Fieri.jpg",
+    "position": "Chef Extraordinaire"
+  },
+  {
+    "id": 9,
+    "name": "Jamie Oliver",
+    "img": "/assets/images/chefs/Jamie-Oliver.jpg",
+    "position": "Chef Extraordinaire"
+  },
+  {
+    "id": 10,
+    "name": "Rachael Ray",
+    "img": "/assets/images/chefs/Rachael-Ray.png",
+    "position": "Chef Extraordinaire"
+  },
+  {
+    "id": 11,
+    "name": "Wolfgang Puck",
+    "img": "/assets/images/chefs/Wolfgang-Puck.jpg",
+    "position": "Chef Extraordinaire"
+  }
+]

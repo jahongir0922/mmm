@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.11",
+    "nuxt-gsap-module": "^1.7.2",
+    "sass": "^1.56.1"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "gsap": "file:gsap-bonus.tgz",
+    "vue3-animate-onscroll": "^1.0.6"
+  }
+}
